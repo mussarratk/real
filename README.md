@@ -8,3 +8,4 @@ https://learn.microsoft.com/en-gb/training/browse/?products=azure%2Cazure-stream
 https://learn.microsoft.com/en-gb/training/modules/dax-power-bi-modify-filter/
 - coursera
 - https://www.coursera.org/programs/learning-program-for-family-iwira/projects/processing-iot-hub-data-streams-with-azure-stream-analytics?source=search
+<img width="1019" height="603" alt="image" src="https://github.com/user-attachments/assets/baffe520-57f3-4121-95b6-11f7d228dbf1" />
